@@ -3,12 +3,12 @@
 This code is to demonstrate what PubSub is, and to visualize how it works.
 
 # What is Redis PubSub?
-Firstly, PubSub stands for Publish and Subscribe. So, one person will be publishing and the other will bbe subscribing.
+Firstly, PubSub stands for Publish and Subscribe. So, one person will be publishing and the other will be subscribing.
 
 Imagine you are running a radio channel, say 91.1 FM. You are PUBLISHING your music shows in that channel. 
 A person, say B is tuning his radio receiver to 91.1 FM. So he is SUBSCRIBING to your channel.
 
-Redis PubSub works in the same way as well.
+Redis PubSub is pretty much the same thing.
 
 Inorder to visusalize this concept, open your Redis-CLI and give the following command:
       PUBLISH fmshow
